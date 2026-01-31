@@ -1,4 +1,61 @@
-## Hi there 👋
+# Hi there 👋 I'm Suresh Amgoth
+
+🎯 Machine Learning & AI Developer  
+💡 Focused on LLMs, MCP tools, and data-driven solutions  
+🔬 Research software experience at DBFZ, UFZ, and academia  
+
+---
+
+## 🚀 About Me
+
+- 🤖 Working on LLM tools, MCP, and GraphQL integrations  
+- 🧠 Interested in AI agents, RAG systems, and applied ML  
+- 📊 Love building data pipelines & visualization tools  
+- 🌍 Based in Germany  
+- 🎓 MSc in Molecular Biotechnology  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Python | SQL (Basics) | JavaScript (Basics)
+
+**AI / ML**  
+Scikit-learn • TensorFlow • PyTorch • XGBoost  
+LLMs • RAG • MCP • NLP Basics
+
+**Data & Visualization**  
+Pandas • NumPy • Matplotlib • Plotly • Highcharts
+
+**Tools**  
+GitHub • GitLab • Linux • Streamlit • Pytest
+
+---
+
+## 📌 Featured Projects
+
+🔹 **RAG QA System**  
+LLM-powered document QA with vector search & FastAPI
+
+🔹 **Potato Disease Classification**  
+CNN model achieving 95%+ accuracy
+
+🔹 **Insurance Prediction ML App**  
+Streamlit app with XGBoost & hyperparameter tuning
+
+---
+
+## 📫 Connect With Me
+
+📧 amgothsuresh333@gmail.com  
+💼 LinkedIn: [your link]  
+🌐 Portfolio: [your link]
+
+---
+
+⭐ *Always open to collaboration in AI, ML, and LLM projects!*
+
 
 <!--
 **Amgoth-Suresh/Amgoth-Suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
