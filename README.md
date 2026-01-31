@@ -46,12 +46,11 @@ Streamlit app with XGBoost & hyperparameter tuning
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/suresh-amgoth-1948a3245/)  
-🌐 [Portfolio](https://suresh-amgoth.lovable.app/)  
-📧 [Email](mailto:amgothsuresh333@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://suresh-amgoth.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suresh-amgoth-1948a3245/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amgothsuresh333@gmail.com)
 
 ---
 
